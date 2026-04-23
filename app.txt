@@ -1,1 +1,4 @@
+HEAD
 RHEL DevOps Journey
+Day 1 RHEL Git Start
+09fcc39 ( Initial commit (RHEL Day 1))
